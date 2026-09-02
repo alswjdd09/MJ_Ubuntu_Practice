@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/mj" added="2026-09-01T06:43:25.108423Z" modified="2026-09-01T06:43:25.128854Z" visited="2026-09-01T06:43:25.108423Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;gio open %u&apos;" modified="2026-09-01T06:43:25.108425Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-09-01T06:43:25.128852Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mj/MJ_Ubuntu_Practice/0902_4.c" added="2026-09-02T01:42:54.706814Z" modified="2026-09-02T01:42:54.958132Z" visited="2026-09-02T01:42:54.706815Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-09-02T01:42:54.706816Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;gio open %u&apos;" modified="2026-09-02T01:42:54.958128Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mj/MJ_Ubuntu_Practice/0902_5.c" added="2026-09-02T01:49:48.433706Z" modified="2026-09-02T01:49:48.685582Z" visited="2026-09-02T01:49:48.433707Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-09-02T01:49:48.433708Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;gio open %u&apos;" modified="2026-09-02T01:49:48.685577Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mj/Hello.txt" added="2026-09-02T02:22:15.509736Z" modified="2026-09-02T02:44:35.554805Z" visited="2026-09-02T02:22:15.509736Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2026-09-02T02:44:35.554797Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mj/MJ_Ubuntu_Practice/0902_6.c" added="2026-09-02T02:56:14.113261Z" modified="2026-09-02T02:56:14.364987Z" visited="2026-09-02T02:56:14.113262Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-09-02T02:56:14.113265Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;gio open %u&apos;" modified="2026-09-02T02:56:14.364985Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

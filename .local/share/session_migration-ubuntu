@@ -1,0 +1,3 @@
+[State]
+timestamp=1788307362
+migrated=ubuntu-settings-migrate-to-defaults.18.10.1.py;unity-gnome-shell-migration.17.10.py;nautilus_thumbnail_cache_clear.sh;yaru-theme-gtk-abandon-Yaru-light.sh;dark-theme-migration.sh;
