@@ -119,3 +119,23 @@ echo "*.deb" >> .gitignore
 git add .
 git commit -m "Remove large unnesessary system files"
 git push origin HEAD
+rm -rf .git
+git init
+git branch -M main
+echo ".vscode/" >> .gitignore
+echo ".config/" >> .gitignore
+echo "Downloads/" >> .gitignore
+echo "*.deb" >> .gitignore
+git remote add origin https://github.com/alswjdd09/MJ_Ubuntu_Practice.git
+git add .
+git commit -m "First commit"
+git push -u origin main --force
+/home/mj/MJ_Ubuntu_Practice/0902_5
+/home/mj/MJ_Ubuntu_Practice/0902_6
+/home/mj/MJ_Ubuntu_Practice/0902_8
+/home/mj/MJ_Ubuntu_Practice/0902_9
+/home/mj/MJ_Ubuntu_Practice/0902_10
+/home/mj/MJ_Ubuntu_Practice/0902_11
+/home/mj/MJ_Ubuntu_Practice/0902_12
+/home/mj/MJ_Ubuntu_Practice/0902_13
+/home/mj/MJ_Ubuntu_Practice/0925_7

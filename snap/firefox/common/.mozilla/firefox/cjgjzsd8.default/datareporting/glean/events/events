@@ -1,0 +1,13 @@
+{"timestamp":19798639,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"path_key":"clean","loadfail_reason":"N/A","glean_timestamp":"1788327150305","can_load":"true"}}
+{"timestamp":19798639,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"can_load":"true","path_key":"clean","glean_timestamp":"1788327150306","loadfail_reason":"N/A"}}
+{"timestamp":19798643,"category":"session_restore","name":"shutdown_success_session_startup","extra":{"shutdown_reason":"N/A","shutdown_ok":"false","glean_timestamp":"1788327150309"}}
+{"timestamp":19799099,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required","glean_timestamp":"1788327150765"}}
+{"timestamp":19799723,"category":"nimbus_events","name":"startup_database_consistency","extra":{"glean_timestamp":"1788327151394","total_db_count":"20","primary":"database","db_active_count":"20","total_store_count":"20","store_active_count":"20","trigger":"startup"}}
+{"timestamp":19799962,"category":"jsonfile","name":"load_autofillprofiles","extra":{"glean_timestamp":"1788327151629","value":"error_notfounderror"}}
+{"timestamp":19800001,"category":"doh","name":"state_rollback","extra":{"value":"null","glean_timestamp":"1788327151668"}}
+{"timestamp":19800293,"category":"containers","name":"container_profile_loaded","extra":{"containers":"4","glean_timestamp":"1788327151960"}}
+{"timestamp":19800525,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1788327152192"}}
+{"timestamp":19800833,"category":"jsonfile","name":"load_logins","extra":{"value":"error_notfounderror","glean_timestamp":"1788327152499"}}
+{"timestamp":19800883,"category":"upgrade_dialog","name":"trigger_reason","extra":{"glean_timestamp":"1788327152550","value":"not-major"}}
+{"timestamp":19801704,"category":"nimbus_events","name":"database_write","extra":{"glean_timestamp":"1788327153371","success":"true"}}
+{"timestamp":19808149,"category":"doh","name":"state_shutdown","extra":{"value":"null","glean_timestamp":"1788327159816"}}

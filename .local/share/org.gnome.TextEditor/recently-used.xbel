@@ -3,11 +3,11 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/mj/Hello.txt" added="2026-09-02T02:22:18.426678Z" modified="2026-09-02T02:44:39.269703Z" visited="2026-09-02T11:44:36.424686+09">
+  <bookmark href="file:///home/mj/Hello.txt" added="2026-09-02T02:22:18.426678Z" modified="2026-09-02T04:01:12.986950Z" visited="2026-09-02T13:01:10.219934+09">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-09-02T02:44:39.269702Z" count="12"/>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-09-02T04:01:12.986949Z" count="14"/>
         </bookmark:applications>
       </metadata>
     </info>

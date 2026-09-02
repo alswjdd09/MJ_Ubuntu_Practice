@@ -1,1 +1,3 @@
 {"timestamp":4002980,"category":"bounce.tracking.protection","name":"purge_action","extra":{"glean_timestamp":"1788311354646","require_stateful_bounces":"false","success":"true","site_host":"vscode.dev","bounce_time":"1788244601","is_dry_run":"true"}}
+{"timestamp":19744710,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2026-09-02T14:31+09:00","glean_timestamp":"1788327096377"},"execution_counter":1}
+{"timestamp":19801490,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2026-09-02T14:32+09:00","glean_timestamp":"1788327153157"},"execution_counter":2}

@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="chrome://browser/content/contentSearchUI.css" />
     <link rel="stylesheet" href="chrome://newtab/content/css/activity-stream.css" />
   </head>
-  <!-- Cached: Wed, 02 Sep 2026 03:08:03 GMT -->
+  <!-- Cached: Wed, 02 Sep 2026 05:32:36 GMT -->
   <body class="activity-stream">
     <div id="header-asrouter-container" role="presentation"></div>
     <div id="root">
@@ -161,7 +161,7 @@ window.__STARTUP_STATE__ = {
 				"smallFaviconLength": 546,
 				"smallFaviconRef": "",
 				"smallFaviconSize": 16,
-				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fcode.visualstudio.com%2Fshortcuts%2Fkeyboard-shortcuts-linux.pdf&revision=3711",
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fcode.visualstudio.com%2Fshortcuts%2Fkeyboard-shortcuts-linux.pdf&revision=3881",
 				"hostname": "code.visualstudio",
 				"typedBonus": true
 			},
@@ -2433,4 +2433,4 @@ window.__STARTUP_STATE__ = {
 	}
 };
 
-ŽË}µ×‚           j—“IâN+ÿÿÿÿ       :about:home alt-data 1;23016,script version 20260204004611  ¶7
+.ÕëÈœí           j—´ôIâe¦ÿÿÿÿ       :about:home alt-data 1;23016,script version 20260204004611  ¶7
