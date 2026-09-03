@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="chrome://browser/content/contentSearchUI.css" />
     <link rel="stylesheet" href="chrome://newtab/content/css/activity-stream.css" />
   </head>
-  <!-- Cached: Wed, 02 Sep 2026 05:32:36 GMT -->
+  <!-- Cached: Thu, 03 Sep 2026 06:40:17 GMT -->
   <body class="activity-stream">
     <div id="header-asrouter-container" role="presentation"></div>
     <div id="root">
@@ -128,9 +128,9 @@ window.__STARTUP_STATE__ = {
 		"rows": [
 			{
 				"bookmarkGuid": null,
-				"frecency": 20994,
+				"frecency": 21000,
 				"guid": "6kCPX2c4NTVi",
-				"lastVisitDate": 1788316121347,
+				"lastVisitDate": 1788335773770,
 				"title": "Fine-grained Personal Access Tokens",
 				"url": "https://github.com/settings/personal-access-tokens",
 				"type": "history",
@@ -161,7 +161,7 @@ window.__STARTUP_STATE__ = {
 				"smallFaviconLength": 546,
 				"smallFaviconRef": "",
 				"smallFaviconSize": 16,
-				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fcode.visualstudio.com%2Fshortcuts%2Fkeyboard-shortcuts-linux.pdf&revision=3881",
+				"screenshot": "moz-page-thumb://thumbnails/?url=https%3A%2F%2Fcode.visualstudio.com%2Fshortcuts%2Fkeyboard-shortcuts-linux.pdf&revision=7783",
 				"hostname": "code.visualstudio",
 				"typedBonus": true
 			},
@@ -2433,4 +2433,4 @@ window.__STARTUP_STATE__ = {
 	}
 };
 
-.ÕëÈœí           j—´ôIâe¦ÿÿÿÿ       :about:home alt-data 1;23016,script version 20260204004611  ¶7
+¡aÆš¬           j™QIãZ•ÿÿÿÿ       :about:home alt-data 1;23016,script version 20260204004611  ¶7
