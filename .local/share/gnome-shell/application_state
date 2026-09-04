@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.Nautilus.desktop" score="4" last-seen="1788414454"/>
+    <application id="snap-store_snap-store.desktop" score="3" last-seen="1788244104"/>
+    <application id="org.gnome.Nautilus.desktop" score="4" last-seen="1788423313"/>
     <application id="org.gnome.Settings.desktop" score="19" last-seen="1788308942"/>
-    <application id="gnome-language-selector.desktop" score="10" last-seen="1788240925"/>
     <application id="firefox_firefox.desktop" score="349" last-seen="1788417686"/>
     <application id="org.gnome.Terminal.desktop" score="69" last-seen="1788241516"/>
     <application id="gnome-initial-setup.desktop" score="1" last-seen="1788240636"/>
-    <application id="snap-store_snap-store.desktop" score="3" last-seen="1788244104"/>
     <application id="ibus-setup-hangul.desktop" score="7" last-seen="1788241211"/>
-    <application id="terminator.desktop" score="1169" last-seen="1788419425"/>
+    <application id="gnome-language-selector.desktop" score="10" last-seen="1788240925"/>
+    <application id="terminator.desktop" score="1375" last-seen="1788498834"/>
     <application id="update-manager.desktop" score="4" last-seen="1788240733"/>
-    <application id="code.desktop" score="6757" last-seen="1788419424"/>
-    <application id="org.gnome.TextEditor.desktop" score="7" last-seen="1788335741"/>
+    <application id="code.desktop" score="9731" last-seen="1788498833"/>
+    <application id="org.gnome.TextEditor.desktop" score="8" last-seen="1788423311"/>
   </context>
 </application-state>
